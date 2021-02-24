@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Garage-App</string>
+    <string name="temperature">%d\u2103</string>
+    <string name="humidity">%d\u2105</string>
+</resources>
